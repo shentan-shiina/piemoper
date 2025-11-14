@@ -93,7 +93,7 @@ Currently, the installation process is somewhat tedious, but ensures optimal res
 	```
 	
 ## Usage
-Please refer to the [PieMoPER documentation](PieMoPER_Documentation) for detailed usage instructions.
+Please refer to the [PieMoPER documentation](PieMoPER_Documentation.md) for detailed usage instructions.
 After completing the setup, you will be able to teleoperate your own robot like this:
 
 <p align="center">
