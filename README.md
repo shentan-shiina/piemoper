@@ -28,7 +28,7 @@ Currently, the installation process is somewhat tedious, but ensures optimal res
 
 -  Clone repo (install under ~ for documentation consistency):
 	```bash
-	cd ~ && git clone
+	cd ~ && git clone https://github.com/shentan-shiina/piemoper.git
 	```
 -  Set Up the Environment and Install Dependencies
 	1. Create a virtual environment:
