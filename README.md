@@ -1,5 +1,5 @@
 # PieMoPER
-Pika Teleoperation for Mobile PiPER (**PieMoPER**) is a simple and convenient teleoperation system designed for the **MoPER** robot, and it can be easily intergrated into other mobile robots. The system is built upon **AgileX Pika**, which uses multiple VIVE trackers for localization and maps the teleoperator's movements onto the robot.
+Pika Teleoperation for Mobile PiPER (**PieMoPER**) is a simple and convenient teleoperation system designed for the [MoPER](https://github.com/shentan-shiina/MoPER) robot, and it can be easily intergrated into other mobile robots. The system is built upon **AgileX Pika**, which uses multiple VIVE trackers for localization and maps the teleoperator's movements onto the robot.
 
 <p align="center">
   <img src="image/moper_v1_side.jpg" height="400">
